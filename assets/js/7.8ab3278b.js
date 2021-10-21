@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{469:function(t,e,n){"use strict";n.r(e);var s=n(23),r=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[[e("l-button",{attrs:{type:"primary"}},[this._v("Click me")])]],2)}),[],!1,null,null,null);e.default=r.exports}}]);
